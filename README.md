@@ -1,12 +1,12 @@
-#<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="ED CLEIDE - RESTAURANTE - Acarajé online com entrega rápida e sabor garantido. Peça já pelo WhatsApp!" />
   <meta name="keywords" content="acarajé, comida baiana, delivery de acarajé, restaurante online, Ed Cleide" />
-  <meta name="author" content="Ed Cleide Restaurante" />
-  <title>Ed Cleide Restaurante</title>
+  <meta name="author" content="ED CLEIDE - RESTAURANTE" />
+  <title>ED CLEIDE - RESTAURANTE</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff8f0; color: #333; }
     header { background-color: #e07a5f; color: white; padding: 20px; text-align: center; }
@@ -25,7 +25,7 @@
 </head>
 <body>
   <header>
-    <h1>Ed Cleide Restaurante</h1>
+    <h1>ED CLEIDE - RESTAURANTE</h1>
     <p>O melhor acarajé da cidade, feito com amor e tradição!</p>
   </header>
 
